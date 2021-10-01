@@ -1,4 +1,7 @@
 ## Drew's Website
+
+<div align="center"><img src="dp-rynyl-1.jpg" width="379" height="569" alt="description-of-image" /></div>
+
 You can use the [editor on GitHub](https://github.com/drew-ilagan/drew-ilagan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
